@@ -16,7 +16,7 @@ function Footer(params) {
           <li className="nav-item"><a href="/" className="nav-link px-2 text-muted">Features</a></li>
           <li className="nav-item"><a href="/" className="nav-link px-2 text-muted">Pricing</a></li>
           <li className="nav-item"><a href="/" className="nav-link px-2 text-muted">FAQs</a></li>
-          <li className="nav-item"><a href="/" className="nav-link px-2 text-muted">About</a></li>
+          <li className="nav-item"><a href="/pages/about/about" className="nav-link px-2 text-muted">About</a></li>
         </ul>
       </footer>
     </div>
